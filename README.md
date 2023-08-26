@@ -1,1 +1,1 @@
-# GamePractic
+# GamePractice
